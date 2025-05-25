@@ -120,6 +120,6 @@ HealthyLifeBot — это open-source проект, и я приглашаю р�
 ## 📬 Контакты
 
 - GitHub: [AndreyCoder404](https://github.com/AndreyCoder404)
-- Telegram: @and_resnenko
+- Telegram: [@and_resnenko](https://t.me/and_resnenko)
 
 Присоединяйтесь к HealthyLifeBot и давайте сделаем мир здоровее и счастливее вместе! 🚀
