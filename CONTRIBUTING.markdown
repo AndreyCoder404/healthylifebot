@@ -1,8 +1,8 @@
-# 🥩🍖🍳🥙🥬🥕🍌🥜🍫💪😎🏋️‍♂️🤼‍♂️🚵‍♂️🏊‍♂️🧘‍♂️Contributing to HealthyLifeBot 🥩🍖🍳🥙🥬🥕🍌🥜🍫💪😎🏋️‍♂️🤼‍♂️🚵‍♂️🏊‍♂️🧘‍♂️
+# 🥩🏊‍♂️🍖🥙🥕🍌😎Contributing to HealthyLifeBot 🏋️‍♂️🍳🤼‍♂️🍫💪🚵‍♂️🧘‍♂️🥜
 
 Thank you for your interest in contributing to HealthyLifeBot! This document outlines how you can contribute to this open-source project.🤝
 
-## 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥How to Contribute🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+## 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥How to Contribute🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 We welcome contributions from the community! Here’s how you can get involved:
 
@@ -73,6 +73,6 @@ Your contributions help make HealthyLifeBot better for everyone. Let’s build a
 \
 \
 \
-🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
