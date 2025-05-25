@@ -1,6 +1,5 @@
 # HealthyLifeBot
 
-!(https://github.com/AndreyCoder404/healthylifebot/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub Issues](https://img.shields.io/github/issues/AndreyCoder404/healthylifebot)
 
