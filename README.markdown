@@ -109,7 +109,7 @@ HealthyLifeBot — это open-source проект, и я приглашаю р�
 4. Отправьте изменения (`git push origin feature/your-feature`).
 5. Создайте Pull Request.
 
-Подробности в [CONTRIBUTING.md](CONTRIBUTING.md).
+Подробности в [CONTRIBUTING.md](https://github.com/AndreyCoder404/healthylifebot/blob/main/CONTRIBUTING.markdown).
 
 ## 📜 Правообладание и лицензия
 
@@ -120,6 +120,5 @@ HealthyLifeBot — это open-source проект, и я приглашаю р�
 ## 📬 Контакты
 
 - GitHub: [AndreyCoder404](https://github.com/AndreyCoder404)
-- Telegram: [@and_resnenko](https://t.me/and_resnenko)
 
 Присоединяйтесь к HealthyLifeBot и давайте сделаем мир здоровее и счастливее вместе! 🚀
