@@ -1,4 +1,4 @@
-# Contributing to HealthyLifeBot 🏋️‍♂️🍳🤼‍♂️💪🚵‍♂️🧘‍♂️🥜🥩🏊‍♂️🥕🍌😎
+# 🥩🥩🥩🥩🥩🥩🥩🥩🥩 Contributing to HealthyLifeBot  🥩🥩🥩🥩🥩🥩🥩🥩🥩
 
 Thank you for your interest in contributing to HealthyLifeBot! This document outlines how you can contribute to this open-source project.🤝
 
