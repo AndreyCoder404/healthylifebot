@@ -13,10 +13,12 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 ### 💙Steps to Contribute
 
-1. **Fork the Repository**:
+
+1️⃣ **Fork the Repository**:
 
    🔸 Click the "Fork" button on the GitHub page.
-3. **Create a Feature Branch**:
+
+2️⃣ **Create a Feature Branch**:
 
    🔸 Clone your fork locally: 
 
@@ -29,7 +31,8 @@ We welcome contributions from the community! Here’s how you can get involved:
      ```bash
      git checkout -b feature/your-feature-name
      ```
-6. **Make Changes**:
+
+3️⃣ **Make Changes**:
 
    🔸 Write your code, adhering to the project’s style (e.g., PEP 8 for Python).
 
@@ -40,14 +43,16 @@ We welcome contributions from the community! Here’s how you can get involved:
      ```bash
      git commit -m "Add your feature description"
      ```
-8. **Push to Your Fork**:
+
+4️⃣ **Push to Your Fork**:
 
     🔸 Push your branch to your fork:
 
      ```bash
      git push origin feature/your-feature-name
      ```
-10. **Create a Pull Request (PR)**:
+
+5️⃣ **Create a Pull Request (PR)**:
  
    🔸 Go to the original repository and create a PR from your branch.
   
