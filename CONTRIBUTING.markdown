@@ -1,4 +1,4 @@
-# 🥩🏊‍♂️🍖🥙🥕🍌😎Contributing to HealthyLifeBot 🏋️‍♂️🍳🤼‍♂️🍫💪🚵‍♂️🧘‍♂️🥜
+# Contributing to HealthyLifeBot 🏋️‍♂️🍳🤼‍♂️💪🚵‍♂️🧘‍♂️🥜🥩🏊‍♂️🥕🍌😎
 
 Thank you for your interest in contributing to HealthyLifeBot! This document outlines how you can contribute to this open-source project.🤝
 
@@ -63,8 +63,6 @@ We welcome contributions from the community! Here’s how you can get involved:
 ## 🚀Code of Conduct.🚀
 
 Please adhere to the principles of respect and collaboration. We follow the Contributor Covenant. .🤝
-
-🥩🍖🍳🥙🥬🥕🍌🥜🍫💪😎🏋️‍♂️🤼‍♂️🚵‍♂️🏊‍♂️🧘‍♂️
 
 ## 🕊Thank You! 🕊
 
