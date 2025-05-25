@@ -22,15 +22,13 @@ We welcome contributions from the community! Here’s how you can get involved:
 
    🔸 Clone your fork locally: 
 
-     ```bash
      git clone https://github.com/your-username/healthylifebot.git
      cd healthylifebot
-     ```
+     
    🔸 Create a new branch for your feature: 
 
-     ```bash
      git checkout -b feature/your-feature-name
-     ```
+    
 
 3️⃣ **Make Changes**:
 
@@ -40,17 +38,13 @@ We welcome contributions from the community! Here’s how you can get involved:
 
    🔸 Commit your changes:
 
-     ```bash
      git commit -m "Add your feature description"
-     ```
 
 4️⃣ **Push to Your Fork**:
 
     🔸 Push your branch to your fork:
 
-     ```bash
      git push origin feature/your-feature-name
-     ```
 
 5️⃣ **Create a Pull Request (PR)**:
  
